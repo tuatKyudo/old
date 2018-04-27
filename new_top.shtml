@@ -1,0 +1,88 @@
+<html>
+<head>
+<meta http-equiv="Content-Language" content="ja">
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>東京農工大学弓道部</title>
+<style type="text/css">
+body,td,tr {FONT-SIZE: 11pt; COLOR : #000000;}
+a:link {color: ##FF6000; text-decoration: none;}
+a:visited {color: #008080; text-decoration: none;}
+a:active {color: #000000; text-decoration: none;}
+a:hover {color: #000000; text-decoration: overline underline;}
+BODY {SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; 
+SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-ARROW-COLOR: #aeaeae; 
+SCROLLBAR-BASE-COLOR: #aeaeae; SCROLLBAR-3d-light-color: #aeaeae;
+SCROLLBAR-TRACK-COLOR: #ffffff; SCROLLBAR-DARKSHADOW-COLOR: #aeaeae;}
+</style>
+<base target="_self">
+</head>
+<body background="./images/yagasuri.gif">
+<br><br>
+<br><br>
+<table border="1" cellspacing="0" bordercolor=#D8D8D8 align="center" width="612" height="300" bgcolor="#FFFFFF">
+<td valign="top" align="left" width="357">
+<p align="center">
+<br>
+<b></b><br>
+<br><br>
+<br><br>
+<img border="0" src="./images/kyudo.gif" width="48" height="86"><br><!----><!--
+<font size="3"><a href="./event/shinkan28.htm" target="main">新歓特設ページへ！</a></font>-->
+<br><br>
+<br><br>
+</p>
+</td>
+<td valign="top" rowspan="2" align="left" width="245">
+	<iframe src="./history.html" height=160 width=380>
+		<a href="./history.html" target="main">更新履歴</a><br />
+	</iframe>
+<!--<a href="./rss.xml"><img src="./images/rss.png" width="36" height="14" border="0"></a>
+<a href="./wirss.htm" target="_top">RSSってなんすか?</a>
+<br><br>-->
+<!--<font size="2">
+
+
+<br><br><font size="+1"><a href="./event/shinkan27-1.htm" target="main">新入生のみなさんへ（新歓特設ページ）</a></font>--><br><br>
+
+
+東京農工大学弓道部です。<br>
+このサイトでは主に弓道部の試合結果をお伝えします。<br>
+
+新歓特設サイトは<a href="./event/shinkan29.htm" target="_top"><b>こちら</b></a>からどうぞ。<br>
+<br>
+・30年度男子リーグIV部<br>
+・30年度女子リーグIV部<br>
+試合結果を更新しました。<br><br>
+○連絡先●<br>  
+メール:
+<a href="tigereleph@@gmail.com"><!--<img src="./images/address.png" border="0">-->tigereleph@@gmail.com</a><br>
+(管理人 上田)<br>
+スパム対策のため、アドレスには@を2つ入力しております。<br>
+送信の際には、1つ削除していただきますよう、宜しくお願い申し上げます。<br>
+何かございましたらいつでもご連絡ください。<br><br>
+○旧コンテンツ●<br>
+前のコンテンツは<a href="./_old/index.html" target="_top"><b>こちら</b></a>からどうぞ。<br>
+</font>
+<br>スマホなどでは表示されない、更新されない場合があります。
+</td>
+</table>
+<!--<div style="text-align:center;">LAST&nbsp;MODIFIED:<!--#config timefmt="%d&frasl;%m&frasl;%Y&nbsp;%k:%M:%S"--><!--#flastmod file="./history.html"-->
+</div>
+</br>
+<p align="center">
+<font size="2">
+リンクフリー、及び、アンリンクフリーですが、<A HREF="mailto:garnet_s_knight@@yahoo.co.jp">メール</a>頂ければ、相互リンクいたします。<br>
+リンク先は<a href="http://www.tuat.ac.jp/~kyudo/" target="_top">http://www.tuat.ac.jp/~kyudo/</a>でお願いします。
+<br><br>
+下のバナーからお好きな物をお使い下さい。(縮小してお使いいただいても結構です。)</font>
+<p align="center"><font size="2">
+<img border="0" src="./images/banner/bana1.gif" width="200" height="40">&nbsp;&nbsp;   
+<span style="FONT-SIZE: 10pt">ファイルサイズ:2.97kB&nbsp;形式:GIF(16色､透過色無し)</span></font>
+<p align="center"><font size="2">
+<br>
+<img border="0" src="./images/banner/bana2.gif" width="200" height="40">&nbsp;   
+<span style="FONT-SIZE: 10pt">ファイルサイズ:2.00kB&nbsp;形式:GIF(16色､透過色無し)</span><br>
+<a href="./cgi-bin/diary/diary.cgi" target="_top">hitorigoto</a>
+</body>
+
+</html>

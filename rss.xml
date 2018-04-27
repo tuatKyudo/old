@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Shift_JIS" ?> 
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xml:lang="ja"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel rdf:about="http://www.tuat.ac.jp/~kyudo/rss.xml">
+		<title>東京農工大学 弓道部Webサイト</title> 
+		<link>http://www.tuat.ac.jp/~kyudo/</link> 
+		<description>農工大弓道部 公式サイトです。</description> 
+		<dc:language>ja</dc:language> 
+		<items>
+			<rdf:Seq>
+				<rdf:li rdf:resource="http://www.tuat.ac.jp/~kyudo/result/ocha_girl21.htm" />
+			</rdf:Seq>
+		</items>
+	</channel>
+	<item rdf:about="http://www.tuat.ac.jp/~kyudo/result/1hashi_jr21.htm">
+		<link>http://www.tuat.ac.jp/~kyudo/result/1hashi_jr21.htm</link> 
+		<title>結果追加</title> 
+		<description>
+			<![CDATA[<h2>更新のお知らせ。</h2><br />
+			お茶の水女子Jr.戦対お茶の水女子大を追加]]>
+		</description>
+		<dc:subject>更新</dc:subject>
+		<dc:date>2008-11-39T17:29:01+09:00</dc:date>
+	</item>
+</rdf:RDF>

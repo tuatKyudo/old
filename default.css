@@ -1,0 +1,79 @@
+.attention
+{
+	color:red;
+}
+
+.centre
+{
+	text-align:center;
+}
+
+.female
+{
+	background-color:#FF33FF;
+}
+
+.large
+{
+	font-size:larger;
+	font-weight:bold;
+}
+
+.male
+{
+	background-color:#99FFFF;
+}
+
+.tuat
+{
+	font-weight:bold;
+}
+
+.white
+{
+	background-image:none;
+	background-color:#FFFFFF;
+}
+
+a:link
+{
+	color:black;
+	text-decoration:none;
+}
+
+a:visited
+{
+	color:black;
+	text-decoration:none;
+}
+
+a:active
+{
+	color:black;
+	text-decoration:none;
+}
+
+a:hover
+{
+	color:black;
+	text-decoration:overline underline;
+}
+
+body
+{
+	background-image:url(./images/yagasuri.gif);
+	background-repeat:repeat;
+	scrollbar-face-color:#ffffff;
+	scrollbar-highlight-color:#ffffff;
+	scrollbar-shadow-color:#ffffff;
+	scrollbar-arrow-color:#aeaeae; 
+	scrollbar-base-color:#aeaeae;
+	scrollbar-3d-light-color:#aeaeae;
+	scrollbar-track-color:#ffffff;
+	scrollbar-darkshadow-color:#aeaeae;
+}
+
+table
+{
+	background-color:white;
+}

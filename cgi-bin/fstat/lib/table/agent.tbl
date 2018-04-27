@@ -1,0 +1,45 @@
+### ユーザーエージェント - 2001/01/12 / Ver.3
+# 巡回ソフト・ブッコ抜きソフト
+EirGrabber		(Web録画)
+GetRight		(DL支援)
+InterGet		(InterGet!! / Web録画)
+Net Vampire		(DL支援)
+PageDown		(Web録画)
+ReGet			(DL支援)
+Vegas95			(Vegas95 Proxy / Web録画)
+WebAuto			(Web録画)
+WebFetch		(先読み支援)
+WWWC			(更新チェッカ)
+WWWD			(<A href="http://www.koizuka.koshigaya.saitama.jp/~yosi/wwwd/">更新チェッカ</A>)
+
+# 独立系ブラウザ
+DoCoMo	(携帯電話)
+J-PHONE	(携帯電話)
+Lynx	(テキストブラウザ)
+
+# ロボット
+ArchitextSpider		[R] (from <A HREF="http://www.excite.com/">excite</A>)
+Chieri			[R] (ちえり / from <A HREF="http://www.tamon.co.jp/TINAMI/">TINAMI</A>)
+Googlebot		[R] (from <A HREF="http://www.lycos.co.jp/">Lycos</A>)
+indexpert		[R] (from <A HREF="http://www.fresheye.co.jp/">フレッシュアイ</A>)
+InfoNaviRobot		[R] (from <A HREF="http://infonavi.infoweb.ne.jp">InfoNavigator</A>)
+Iron33			[R] (from <A HREF="http://verno.ueda.info.waseda.ac.jp/">Verno</A>)
+InfoSeek Sidewinder	[R] (from <A HREF="http://www.infoseek.co.jp">Infoseek Japan</A>)
+nttdirectory_robot	[R] (from NTT-Directory?)
+Slurp			[R] (from <A HREF="http://www.goo.ne.jp">goo</A>その他)
+Slurp.so		[R] (from <A HREF="http://www.goo.ne.jp">goo</A>その他)
+Jerky			[R] (from <A HREF="http://odin.ingrid.org/">ODIN</A>)
+Lycos_Spider_(T-Rex)	[R] (T-Rex / from <A HREF="http://www.lycos.com/">Lycos</A>)
+moget			[R] (from <A HREF="http://www.goo.ne.jp">もぎたてgoo</A>)
+Scooter			[R] (from <A HREF="http://altavista.digital.com/">Altavista</A>)
+suke			[R] (from <A HREF="http://kensaku.org/">Ringring</A>)
+TITAN			[R] (from <A HREF="http://titan.mcnet.ne.jp/">Super TITAN</A>)
+W3C_Validator		(W3Cの構文チェッカ)
+
+# その他
+Teleport Pro		(proxy)
+CacheFlow		(<A HREF="http://www.cacheflow.com/technology/">proxy</A>)
+
+# mozilla互換系
+# 'PerManSurfer		(波乗り野郎 / Web録画)' # (表記が統一しないので保留)
+DreamPassport		(ドリームキャスト用ブラウザ)

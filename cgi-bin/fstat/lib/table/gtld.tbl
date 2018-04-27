@@ -1,0 +1,27 @@
+### gTLDテーブル - 2000/01/05 / Ver.3
+com	企業・個人・任意団体
+edu	教育および学術機関
+gov	政府組織
+int	国際組織
+mil	軍関係組織
+net	ネットワーク管理組織
+org	任意の団体
+arpa	ARPANET
+nato	NATO
+
+# ICANN承認の物
+biz	ビジネス
+info	情報サービス
+name	個人名
+pro	専門職
+museum	博物館
+aero	航空
+coop	連合組織
+
+# どうなった？
+firm	ビジネス
+store	ウェブショップ
+web	WWWに関する活動に専念している組織
+arts	文化と娯楽
+rec	レクリエーション活動
+nom	個人サイト

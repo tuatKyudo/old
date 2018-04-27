@@ -1,0 +1,8 @@
+AuthUserFile /home1/kyudo/www/event/2008/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Please enter your ID and password"
+AuthType Basic
+
+<LIMIT POST GET>
+require valid-user
+</LIMIT> 
